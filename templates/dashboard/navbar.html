@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Dashboard - Materialize CSS</title>
+  <!-- Materialize CSS -->
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css" rel="stylesheet" />
+  <!-- Google Icons -->
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
+  <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.11.5/css/jquery.dataTables.min.css" />
+  <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+  <style>
+    .navbar {
+      background-color: #f44336;
+    }
+
+    .card-stats {
+      margin-top: 20px;
+    }
+
+    .card-content i {
+      font-size: 36px;
+      display: block;
+      margin-bottom: 10px;
+    }
+
+    .graph-container {
+      margin-top: 20px;
+    }
+
+    .sidebar {
+      background-color: #333;
+      height: 100vh;
+      width: 280px;
+      /* Aumentar el tamaño del sidebar */
+      color: white;
+      padding: 20px;
+      position: fixed;
+      overflow-y: auto;
+      /* Para permitir el scroll si hay mucho contenido */
+    }
+
+    .sidebar a {
+      color: white;
+      font-size: 1.1rem;
+      /* Hacer que el texto sea más grande */
+    }
+
+    .main-content {
+      margin-left: 300px;
+      /* Ajustar espacio de acuerdo al nuevo ancho del sidebar */
+      padding: 20px;
+    }
+
+    @media screen and (max-width: 992px) {
+      .sidebar {
+        width: 200px;
+        position: relative;
+        height: auto;
+      }
+
+      .main-content {
+        margin-left: 0;
+        padding: 15px;
+      }
+    }
+
+    @media screen and (max-width: 600px) {
+      .sidebar {
+        width: 100%;
+        height: auto;
+        position: relative;
+      }
+
+      .main-content {
+        margin-left: 0;
+        padding: 10px;
+      }
+    }
+
+    .py-4 {
+      margin-top: 10px;
+    }
+  </style>
+</head>
+
+<body>
+  <!-- Navbar -->
+  <nav class="navbar">
+    <div class="nav-wrapper">
+      <a href="#" class="brand-logo center">SYSTEM MAYA SEGUROS</a>
+    </div>
+  </nav>
+
+  <!-- Sidebar -->
+  <div class="sidebar">
+    <h5 class="white-text">Menú</h5>
+    <ul>
+      <li>
+        <a href="#" class="py-4"><i class="material-icons py-4">dashboard</i> Dashboard</a>
+      </li>
+      <li>
+        <a href="{% url 'user-display' %}" class="py-4"><i class="material-icons py-4">person</i> Usuarios</a>
+      </li>
+      <li>
+        <a href="{% url 'agente-display' %}" class="py-4"><i class="material-icons py-4">person</i> Agentes</a>
+      </li>
+
+      <li>
+        <a href="{% url 'indicador-display' %}" class="py-4"><i class="material-icons py-4">person</i> Indicadores</a>
+      </li>
+
+      <li>
+        <a href="{% url 'reclamo-display' %}" class="py-4"><i class="material-icons py-4">person</i> Reclamos</a>
+      </li>
+
+      <li>
+        <a href="{% url 'client-display' %}" class="py-4"><i class="material-icons py-4">account_circle</i> Clientes</a>
+      </li>
+      <li>
+        <a href="{% url 'product-display' %}" class="py-4"><i class="material-icons py-4">verified_user</i>
+          Servicios</a>
+      </li>
+      <li>
+        <a href="{% url 'poliza-display' %}" class="py-4"><i
+            class="material-icons py-4">add_shopping_cart</i>Polizas</a>
+      </li>
+      <li>
+        <a href="{% url 'siniestro-display' %}" class="py-4"><i
+            class="material-icons py-4">add_shopping_cart</i>Siniestro</a>
+      </li>
+      <li>
+        <a href="{% url 'pago-display' %}" class="py-4"><i class="material-icons py-4">event_note</i> Pagos</a>
+      </li>
+      <li>
+        <a href="{% url 'logout' %}" class="py-4"><i class="material-icons py-4">logout</i> Salir</a>
+      </li>
+    </ul>
+  </div>
+</body>
+
+</html>

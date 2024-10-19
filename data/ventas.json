@@ -1,0 +1,1010 @@
+[
+    {
+        "fecha": "2020-01-31",
+        "ventas": 2130,
+        "productos": [
+            {
+                "segmento": "A",
+                "nombre": "Producto A",
+                "cantidad": 120
+            },
+            {
+                "segmento": "B",
+                "nombre": "Producto B",
+                "cantidad": 150
+            },
+            {
+                "segmento": "C",
+                "nombre": "Producto C",
+                "cantidad": 100
+            }
+        ]
+    },
+    {
+        "fecha": "2020-02-29",
+        "ventas": 3685,
+        "productos": [
+            {
+                "segmento": "A",
+                "nombre": "Producto A",
+                "cantidad": 200
+            },
+            {
+                "segmento": "B",
+                "nombre": "Producto B",
+                "cantidad": 250
+            },
+            {
+                "segmento": "C",
+                "nombre": "Producto C",
+                "cantidad": 150
+            }
+        ]
+    },
+    {
+        "fecha": "2020-03-31",
+        "ventas": 2769,
+        "productos": [
+            {
+                "segmento": "A",
+                "nombre": "Producto A",
+                "cantidad": 150
+            },
+            {
+                "segmento": "B",
+                "nombre": "Producto B",
+                "cantidad": 200
+            },
+            {
+                "segmento": "C",
+                "nombre": "Producto C",
+                "cantidad": 100
+            }
+        ]
+    },
+    {
+        "fecha": "2020-04-30",
+        "ventas": 4391,
+        "productos": [
+            {
+                "segmento": "A",
+                "nombre": "Producto A",
+                "cantidad": 250
+            },
+            {
+                "segmento": "B",
+                "nombre": "Producto B",
+                "cantidad": 300
+            },
+            {
+                "segmento": "C",
+                "nombre": "Producto C",
+                "cantidad": 200
+            }
+        ]
+    },
+    {
+        "fecha": "2020-05-31",
+        "ventas": 3515,
+        "productos": [
+            {
+                "segmento": "A",
+                "nombre": "Producto A",
+                "cantidad": 200
+            },
+            {
+                "segmento": "B",
+                "nombre": "Producto B",
+                "cantidad": 250
+            },
+            {
+                "segmento": "C",
+                "nombre": "Producto C",
+                "cantidad": 150
+            }
+        ]
+    },
+    {
+        "fecha": "2020-06-30",
+        "ventas": 4853,
+        "productos": [
+            {
+                "segmento": "A",
+                "nombre": "Producto A",
+                "cantidad": 250
+            },
+            {
+                "segmento": "B",
+                "nombre": "Producto B",
+                "cantidad": 300
+            },
+            {
+                "segmento": "C",
+                "nombre": "Producto C",
+                "cantidad": 200
+            }
+        ]
+    },
+    {
+        "fecha": "2020-07-31",
+        "ventas": 4433,
+        "productos": [
+            {
+                "segmento": "A",
+                "nombre": "Producto A",
+                "cantidad": 250
+            },
+            {
+                "segmento": "B",
+                "nombre": "Producto B",
+                "cantidad": 300
+            },
+            {
+                "segmento": "C",
+                "nombre": "Producto C",
+                "cantidad": 200
+            }
+        ]
+    },
+    {
+        "fecha": "2020-08-31",
+        "ventas": 3215,
+        "productos": [
+            {
+                "segmento": "A",
+                "nombre": "Producto A",
+                "cantidad": 200
+            },
+            {
+                "segmento": "B",
+                "nombre": "Producto B",
+                "cantidad": 250
+            },
+            {
+                "segmento": "C",
+                "nombre": "Producto C",
+                "cantidad": 150
+            }
+        ]
+    },
+    {
+        "fecha": "2020-09-30",
+        "ventas": 2955,
+        "productos": [
+            {
+                "segmento": "A",
+                "nombre": "Producto A",
+                "cantidad": 150
+            },
+            {
+                "segmento": "B",
+                "cantidad": 200,
+                "nombre": "Producto B"
+            },
+            {
+                "segmento": "C",
+                "nombre": "Producto C",
+                "cantidad": 100
+            }
+        ]
+    },
+    {
+        "fecha": "2020-10-31",
+        "ventas": 4324,
+        "productos": [
+            {
+                "segmento": "A",
+                "nombre": "Producto A",
+                "cantidad": 250
+            },
+            {
+                "segmento": "B",
+                "nombre": "Producto B",
+                "cantidad": 300
+            },
+            {
+                "segmento": "C",
+                "nombre": "Producto C",
+                "cantidad": 200
+            }
+        ]
+    },
+    {
+        "fecha": "2020-11-30",
+        "ventas": 3184,
+        "productos": [
+            {
+                "segmento": "A",
+                "nombre": "Producto A",
+                "cantidad": 200
+            },
+            {
+                "segmento": "B",
+                "nombre": "Producto B",
+                "cantidad": 250
+            },
+            {
+                "segmento": "C",
+                "nombre": "Producto C",
+                "cantidad": 150
+            }
+        ]
+    },
+    {
+        "fecha": "2020-12-31",
+        "ventas": 2459,
+        "productos": [
+            {
+                "segmento": "A",
+                "nombre": "Producto A",
+                "cantidad": 150
+            },
+            {
+                "segmento": "B",
+                "nombre": "Producto B",
+                "cantidad": 200
+            },
+            {
+                "segmento": "C",
+                "nombre": "Producto C",
+                "cantidad": 100
+            }
+        ]
+    },
+    {
+        "fecha": "2021-01-31",
+        "ventas": 2021,
+        "productos": [
+            {
+                "segmento": "A",
+                "nombre": "Producto A",
+                "cantidad": 120
+            },
+            {
+                "segmento": "B",
+                "nombre": "Producto B",
+                "cantidad": 150
+            },
+            {
+                "segmento": "C",
+                "nombre": "Producto C",
+                "cantidad": 100
+            }
+        ]
+    },
+    {
+        "fecha": "2021-02-28",
+        "ventas": 4300,
+        "productos": [
+            {
+                "segmento": "A",
+                "nombre": "Producto A",
+                "cantidad": 250
+            },
+            {
+                "segmento": "B",
+                "nombre": "Producto B",
+                "cantidad": 300
+            },
+            {
+                "segmento": "C",
+                "nombre": "Producto C",
+                "cantidad": 200
+            }
+        ]
+    },
+    {
+        "fecha": "2021-03-31",
+        "ventas": 2747,
+        "productos": [
+            {
+                "segmento": "A",
+                "nombre": "Producto A",
+                "cantidad": 150
+            },
+            {
+                "segmento": "B",
+                "nombre": "Producto B",
+                "cantidad": 200
+            },
+            {
+                "segmento": "C",
+                "nombre": "Producto C",
+                "cantidad": 100
+            }
+        ]
+    },
+    {
+        "fecha": "2021-04-30",
+        "ventas": 4904,
+        "productos": [
+            {
+                "segmento": "A",
+                "nombre": "Producto A",
+                "cantidad": 250
+            },
+            {
+                "segmento": "B",
+                "nombre": "Producto B",
+                "cantidad": 300
+            },
+            {
+                "segmento": "C",
+                "nombre": "Producto C",
+                "cantidad": 200
+            }
+        ]
+    },
+    {
+        "fecha": "2021-05-31",
+        "ventas": 2474,
+        "productos": [
+            {
+                "segmento": "A",
+                "nombre": "Producto A",
+                "cantidad": 150
+            },
+            {
+                "segmento": "B",
+                "nombre": "Producto B",
+                "cantidad": 200
+            },
+            {
+                "segmento": "C",
+                "nombre": "Producto C",
+                "cantidad": 100
+            }
+        ]
+    },
+    {
+        "fecha": "2021-06-30",
+        "ventas": 3082,
+        "productos": [
+            {
+                "segmento": "A",
+                "nombre": "Producto A",
+                "cantidad": 200
+            },
+            {
+                "segmento": "B",
+                "nombre": "Producto B",
+                "cantidad": 250
+            },
+            {
+                "segmento": "C",
+                "nombre": "Producto C",
+                "cantidad": 150
+            }
+        ]
+    },
+    {
+        "fecha": "2021-07-31",
+        "ventas": 4558,
+        "productos": [
+            {
+                "segmento": "A",
+                "nombre": "Producto A",
+                "cantidad": 250
+            },
+            {
+                "segmento": "B",
+                "nombre": "Producto B",
+                "cantidad": 300
+            },
+            {
+                "segmento": "C",
+                "nombre": "Producto C",
+                "cantidad": 200
+            }
+        ]
+    },
+    {
+        "fecha": "2021-08-31",
+        "ventas": 4047,
+        "productos": [
+            {
+                "segmento": "A",
+                "nombre": "Producto A",
+                "cantidad": 250
+            },
+            {
+                "segmento": "B",
+                "nombre": "Producto B",
+                "cantidad": 300
+            },
+            {
+                "segmento": "C",
+                "nombre": "Producto C",
+                "cantidad": 200
+            }
+        ]
+    },
+    {
+        "fecha": "2021-09-30",
+        "ventas": 4747,
+        "productos": [
+            {
+                "segmento": "A",
+                "nombre": "Producto A",
+                "cantidad": 200
+            },
+            {
+                "segmento": "B",
+                "nombre": "Producto B",
+                "cantidad": 250
+            },
+            {
+                "segmento": "C",
+                "nombre": "Producto C",
+                "cantidad": 150
+            }
+        ]
+    },
+    {
+        "fecha": "2021-10-31",
+        "ventas": 2975,
+        "productos": [
+            {
+                "segmento": "A",
+                "nombre": "Producto A",
+                "cantidad": 150
+            },
+            {
+                "segmento": "B",
+                "nombre": "Producto B",
+                "cantidad": 200
+            },
+            {
+                "segmento": "C",
+                "nombre": "Producto C",
+                "cantidad": 100
+            }
+        ]
+    },
+    {
+        "fecha": "2021-11-30",
+        "ventas": 3806,
+        "productos": [
+            {
+                "segmento": "A",
+                "nombre": "Producto A",
+                "cantidad": 200
+            },
+            {
+                "segmento": "B",
+                "nombre": "Producto B",
+                "cantidad": 250
+            },
+            {
+                "segmento": "C",
+                "nombre": "Producto C",
+                "cantidad": 150
+            }
+        ]
+    },
+    {
+        "fecha": "2021-12-31",
+        "ventas": 2189,
+        "productos": [
+            {
+                "segmento": "A",
+                "nombre": "Producto A",
+                "cantidad": 120
+            },
+            {
+                "segmento": "B",
+                "nombre": "Producto B",
+                "cantidad": 150
+            },
+            {
+                "segmento": "C",
+                "nombre": "Producto C",
+                "cantidad": 100
+            }
+        ]
+    },
+    {
+        "fecha": "2022-01-31",
+        "ventas": 4734,
+        "productos": [
+            {
+                "segmento": "A",
+                "nombre": "Producto A",
+                "cantidad": 250
+            },
+            {
+                "segmento": "B",
+                "nombre": "Producto B",
+                "cantidad": 300
+            },
+            {
+                "segmento": "C",
+                "nombre": "Producto C",
+                "cantidad": 200
+            }
+        ]
+    },
+    {
+        "fecha": "2022-02-28",
+        "ventas": 2562,
+        "productos": [
+            {
+                "segmento": "A",
+                "nombre": "Producto A",
+                "cantidad": 150
+            },
+            {
+                "segmento": "B",
+                "nombre": "Producto B",
+                "cantidad": 200
+            },
+            {
+                "segmento": "C",
+                "nombre": "Producto C",
+                "cantidad": 100
+            }
+        ]
+    },
+    {
+        "fecha": "2022-03-31",
+        "ventas": 3899,
+        "productos": [
+            {
+                "segmento": "A",
+                "nombre": "Producto A",
+                "cantidad": 200
+            },
+            {
+                "segmento": "B",
+                "nombre": "Producto B",
+                "cantidad": 250
+            },
+            {
+                "segmento": "C",
+                "nombre": "Producto C",
+                "cantidad": 150
+            }
+        ]
+    },
+    {
+        "fecha": "2022-04-30",
+        "ventas": 3267,
+        "productos": [
+            {
+                "segmento": "A",
+                "nombre": "Producto A",
+                "cantidad": 200
+            },
+            {
+                "segmento": "B",
+                "nombre": "Producto B",
+                "cantidad": 250
+            },
+            {
+                "segmento": "C",
+                "nombre": "Producto C",
+                "cantidad": 150
+            }
+        ]
+    },
+    {
+        "fecha": "2022-05-31",
+        "ventas": 4879,
+        "productos": [
+            {
+                "segmento": "A",
+                "nombre": "Producto A",
+                "cantidad": 250
+            },
+            {
+                "segmento": "B",
+                "nombre": "Producto B",
+                "cantidad": 300
+            },
+            {
+                "segmento": "C",
+                "nombre": "Producto C",
+                "cantidad": 200
+            }
+        ]
+    },
+    {
+        "fecha": "2022-06-30",
+        "ventas": 3528,
+        "productos": [
+            {
+                "segmento": "A",
+                "nombre": "Producto A",
+                "cantidad": 150
+            },
+            {
+                "segmento": "B",
+                "nombre": "Producto B",
+                "cantidad": 200
+            },
+            {
+                "segmento": "C",
+                "nombre": "Producto C",
+                "cantidad": 100
+            }
+        ]
+    },
+    {
+        "fecha": "2022-07-31",
+        "ventas": 2646,
+        "productos": [
+            {
+                "segmento": "A",
+                "nombre": "Producto A",
+                "cantidad": 120
+            },
+            {
+                "segmento": "B",
+                "nombre": "Producto B",
+                "cantidad": 150
+            },
+            {
+                "segmento": "C",
+                "nombre": "Producto C",
+                "cantidad": 100
+            }
+        ]
+    },
+    {
+        "fecha": "2022-08-31",
+        "ventas": 4068,
+        "productos": [
+            {
+                "segmento": "A",
+                "nombre": "Producto A",
+                "cantidad": 200
+            },
+            {
+                "segmento": "B",
+                "nombre": "Producto B",
+                "cantidad": 250
+            },
+            {
+                "segmento": "C",
+                "nombre": "Producto C",
+                "cantidad": 150
+            }
+        ]
+    },
+    {
+        "fecha": "2022-09-30",
+        "ventas": 4888,
+        "productos": [
+            {
+                "segmento": "A",
+                "nombre": "Producto A",
+                "cantidad": 250
+            },
+            {
+                "segmento": "B",
+                "nombre": "Producto B",
+                "cantidad": 300
+            },
+            {
+                "segmento": "C",
+                "nombre": "Producto C",
+                "cantidad": 200
+            }
+        ]
+    },
+    {
+        "fecha": "2022-10-31",
+        "ventas": 4214,
+        "productos": [
+            {
+                "segmento": "A",
+                "nombre": "Producto A",
+                "cantidad": 200
+            },
+            {
+                "segmento": "B",
+                "nombre": "Producto B",
+                "cantidad": 250
+            },
+            {
+                "segmento": "C",
+                "nombre": "Producto C",
+                "cantidad": 150
+            }
+        ]
+    },
+    {
+        "fecha": "2022-11-30",
+        "ventas": 3297,
+        "productos": [
+            {
+                "segmento": "A",
+                "nombre": "Producto A",
+                "cantidad": 150
+            },
+            {
+                "segmento": "B",
+                "nombre": "Producto B",
+                "cantidad": 200
+            },
+            {
+                "segmento": "C",
+                "nombre": "Producto C",
+                "cantidad": 100
+            }
+        ]
+    },
+    {
+        "fecha": "2022-12-31",
+        "ventas": 4435,
+        "productos": [
+            {
+                "segmento": "A",
+                "nombre": "Producto A",
+                "cantidad": 250
+            },
+            {
+                "segmento": "B",
+                "nombre": "Producto B",
+                "cantidad": 300
+            },
+            {
+                "segmento": "C",
+                "nombre": "Producto C",
+                "cantidad": 200
+            }
+        ]
+    },
+    {
+        "fecha": "2023-01-31",
+        "ventas": 2600,
+        "productos": [
+            {
+                "segmento": "A",
+                "nombre": "Producto A",
+                "cantidad": 150
+            },
+            {
+                "segmento": "B",
+                "nombre": "Producto B",
+                "cantidad": 200
+            },
+            {
+                "segmento": "C",
+                "nombre": "Producto C",
+                "cantidad": 100
+            }
+        ]
+    },
+    {
+        "fecha": "2023-02-28",
+        "ventas": 4363,
+        "productos": [
+            {
+                "segmento": "A",
+                "nombre": "Producto A",
+                "cantidad": 250
+            },
+            {
+                "segmento": "B",
+                "nombre": "Producto B",
+                "cantidad": 300
+            },
+            {
+                "segmento": "C",
+                "nombre": "Producto C",
+                "cantidad": 200
+            }
+        ]
+    },
+    {
+        "fecha": "2023-03-31",
+        "ventas": 4061,
+        "productos": [
+            {
+                "segmento": "A",
+                "nombre": "Producto A",
+                "cantidad": 200
+            },
+            {
+                "segmento": "B",
+                "nombre": "Producto B",
+                "cantidad": 250
+            },
+            {
+                "segmento": "C",
+                "nombre": "Producto C",
+                "cantidad": 150
+            }
+        ]
+    },
+    {
+        "fecha": "2023-04-30",
+        "ventas": 2241,
+        "productos": [
+            {
+                "segmento": "A",
+                "nombre": "Producto A",
+                "cantidad": 120
+            },
+            {
+                "segmento": "B",
+                "nombre": "Producto B",
+                "cantidad": 150
+            },
+            {
+                "segmento": "C",
+                "nombre": "Producto C",
+                "cantidad": 100
+            }
+        ]
+    },
+    {
+        "fecha": "2023-05-31",
+        "ventas": 4041,
+        "productos": [
+            {
+                "segmento": "A",
+                "nombre": "Producto A",
+                "cantidad": 200
+            },
+            {
+                "segmento": "B",
+                "nombre": "Producto B",
+                "cantidad": 250
+            },
+            {
+                "segmento": "C",
+                "nombre": "Producto C",
+                "cantidad": 150
+            }
+        ]
+    },
+    {
+        "fecha": "2023-06-30",
+        "ventas": 4824,
+        "productos": [
+            {
+                "segmento": "A",
+                "nombre": "Producto A",
+                "cantidad": 250
+            },
+            {
+                "segmento": "B",
+                "nombre": "Producto B",
+                "cantidad": 300
+            },
+            {
+                "segmento": "C",
+                "nombre": "Producto C",
+                "cantidad": 200
+            }
+        ]
+    },
+    {
+        "fecha": "2023-07-31",
+        "ventas": 4612,
+        "productos": [
+            {
+                "segmento": "A",
+                "nombre": "Producto A",
+                "cantidad": 250
+            },
+            {
+                "segmento": "B",
+                "nombre": "Producto B",
+                "cantidad": 300
+            },
+            {
+                "segmento": "C",
+                "nombre": "Producto C",
+                "cantidad": 200
+            }
+        ]
+    },
+    {
+        "fecha": "2023-08-31",
+        "ventas": 4945,
+        "productos": [
+            {
+                "segmento": "A",
+                "nombre": "Producto A",
+                "cantidad": 250
+            },
+            {
+                "segmento": "B",
+                "nombre": "Producto B",
+                "cantidad": 300
+            },
+            {
+                "segmento": "C",
+                "nombre": "Producto C",
+                "cantidad": 200
+            }
+        ]
+    },
+    {
+        "fecha": "2023-09-30",
+        "ventas": 3363,
+        "productos": [
+            {
+                "segmento": "A",
+                "nombre": "Producto A",
+                "cantidad": 200
+            },
+            {
+                "segmento": "B",
+                "nombre": "Producto B",
+                "cantidad": 250
+            },
+            {
+                "segmento": "C",
+                "nombre": "Producto C",
+                "cantidad": 150
+            }
+        ]
+    },
+    {
+        "fecha": "2023-10-31",
+        "ventas": 4139,
+        "productos": [
+            {
+                "segmento": "A",
+                "nombre": "Producto A",
+                "cantidad": 200
+            },
+            {
+                "segmento": "B",
+                "nombre": "Producto B",
+                "cantidad": 250
+            },
+            {
+                "segmento": "C",
+                "nombre": "Producto C",
+                "cantidad": 150
+            }
+        ]
+    },
+    {
+        "fecha": "2023-11-30",
+        "ventas": 3390,
+        "productos": [
+            {
+                "segmento": "A",
+                "nombre": "Producto A",
+                "cantidad": 150
+            },
+            {
+                "segmento": "B",
+                "nombre": "Producto B",
+                "cantidad": 200
+            },
+            {
+                "segmento": "C",
+                "nombre": "Producto C",
+                "cantidad": 100
+            }
+        ]
+    },
+    {
+        "fecha": "2023-12-31",
+        "ventas": 3478,
+        "productos": [
+            {
+                "segmento": "A",
+                "nombre": "Producto A",
+                "cantidad": 200
+            },
+            {
+                "segmento": "B",
+                "nombre": "Producto B",
+                "cantidad": 250
+            },
+            {
+                "segmento": "C",
+                "nombre": "Producto C",
+                "cantidad": 150
+            }
+        ]
+    }
+]

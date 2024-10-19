@@ -1,0 +1,92 @@
+{% include '../dashboard/navbar.html' %}
+<style>
+  .highlight {
+    padding-left: 1px;
+  }
+  .container {
+    padding-left: 150px;
+  }
+  div.dataTables_wrapper {
+    margin-top: 20px;
+  }
+  .dataTables_wrapper .dataTables_filter {
+    border: none;
+  }
+</style>
+<div class="container">
+  <h4 class="center-align">Listado de Pagos</h4>
+  <a
+    href="{% url 'pago-register' %}"
+    class="btn waves-effect waves-light purple"
+    ><i class="material-icons green-white center">add_circle</i></a
+  >
+  <br />
+  <table
+    class="highlight centered responsive-table"
+    id="tableDatos"
+    width="110%"
+  >
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>Poliza</th>
+        <th>Monto</th>
+        <th>Metodo de pago</th>
+        <th>Fecha</th>
+        <th>Descripcion</th>
+        <th width="15%">Acciones</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for item in data %}
+      <tr>
+        <td>{{ item.pago_id }}</td>
+        <td>{{ item.no_poliza }}</td>
+        <td>{{ item.monto_pago_recurrente }}</td>
+        <td>{{ item.metodo_pago }}</td>
+        <td>{{ item.fecha_pago }}</td>
+        <td>{{ item.descrip_pago }}</td>
+        <td>
+          <!-- Botón de Actualizar con ícono de Materialize -->
+          <a
+            title="Actualizar"
+            class="btn waves-effect waves-light green"
+            href="{% url 'pago-update' item.pago_id %}"
+          >
+            <i class="material-icons center">edit</i>
+          </a>
+
+          <!-- Botón de Eliminar con ícono de Materialize -->
+          <a
+            title="Eliminar"
+            class="btn waves-effect waves-light red"
+            href="{% url 'pago-delete' item.pago_id %}"
+          >
+            <i class="material-icons center">delete</i>
+          </a>
+        </td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
+{% include '../dashboard/footer.html' %}
+<script>
+  $(document).ready(function () {
+    $("#tableDatos").DataTable({
+      // Opciones adicionales de DataTables
+      language: {
+        lengthMenu: "Mostrar _MENU_ registros por página",
+        zeroRecords: "No se encontraron resultados",
+        info: "Mostrando página _PAGE_ de _PAGES_",
+        infoEmpty: "No hay registros disponibles",
+        infoFiltered: "(filtrado de _MAX_ registros totales)",
+        search: "Buscar:",
+        paginate: {
+          next: "Siguiente",
+          previous: "Anterior",
+        },
+      },
+    });
+  });
+</script>
